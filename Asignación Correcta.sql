@@ -1,0 +1,1 @@
+SHOW GRANTS FOR 'capturista_escolar'@'localhost';

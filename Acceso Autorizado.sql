@@ -1,0 +1,1 @@
+SELECT * FROM bd_escolar_unidad2.vw_reporte_alumnos;
